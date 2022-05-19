@@ -1,4 +1,4 @@
-package KeThua;
+package KeThua6;
 
 public class Shape {
     private String color = "green";

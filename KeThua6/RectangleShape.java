@@ -1,4 +1,4 @@
-package KeThua;
+package KeThua6;
 
 public class RectangleShape extends Shape {
     private double width = 1.0;

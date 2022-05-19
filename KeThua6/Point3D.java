@@ -1,4 +1,4 @@
-package KeThua;
+package KeThua6;
 
 public class Point3D extends Point2D {
     private float z;
